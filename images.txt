@@ -1,1 +1,10 @@
-nginx:1.18.0
+nginx:1.18
+mysql:5.7
+redis:3.28
+openjdk:8-alpine3.9
+node:14
+nacos-server:2.2.0
+jenkins:2.263.1
+sentinel-dashboard:1.8.2
+maven:3.6-jdk-8-alpine
+gitlab-ce:13.7.1-ce.0
