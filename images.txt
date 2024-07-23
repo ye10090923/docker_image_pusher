@@ -1,6 +1,6 @@
 nginx:1.18
 mysql:5.7
-redis:3.28
+redis:5.0.9
 openjdk:8-alpine3.9
 node:14
 nacos-server:2.2.0
