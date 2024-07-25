@@ -1,1 +1,10 @@
 goharbor/prepare:v2.8.2
+goharbor/harbor-log:v2.8.2
+goharbor/registry-photon:v2.8.2
+goharbor/harbor-registryctl:v2.8.2
+goharbor/harbor-db:v2.8.2
+goharbor/harbor-core:v2.8.2
+goharbor/harbor-portal:v2.8.2
+goharbor/harbor-jobservice:v2.8.2
+goharbor/redis-photon:v2.8.2
+goharbor/nginx-photon:v2.8.2
