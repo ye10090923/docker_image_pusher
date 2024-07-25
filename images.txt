@@ -7,7 +7,7 @@ gitlab/gitlab-runner:v15.9.0
 jenkins/jenkins:2.126
 kibana:7.17.9
 kibana:8.13.3
-mysql:5.7.6
+mysql:5.7
 mysql:8.0.36
 minio/minio
 mongo:4.4.6
