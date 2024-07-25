@@ -4,6 +4,7 @@ elasticsearch:7.17.19
 elasticsearch:8.13.3
 gitlab/gitlab-ce:15.9.0-ce.0
 gitlab/gitlab-runner:v15.9.0
+jenkins
 jenkins/jenkins:2.126
 kibana:7.17.9
 kibana:8.13.3
