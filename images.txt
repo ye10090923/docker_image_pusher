@@ -1,5 +1,2 @@
-nacos/nacos-server:v2.1.2
-nacos/nacos-server:v2.2.0
-nacos/nacos-server:v2.0.4
-nacos/nacos-server:v1.4.7
-nacos/nacos-server:1.4.1
+elleflorio/svn-server:latest
+garethflowers/svn-server:latest
