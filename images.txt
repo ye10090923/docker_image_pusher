@@ -1,2 +1,3 @@
-elleflorio/svn-server:latest
-garethflowers/svn-server:latest
+rabbitmq:3.9.23-management
+rabbitmq:3.6.12-management
+rabbitmq:3.12.8-management
