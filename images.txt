@@ -1,1 +1,6 @@
-mysql:5.7.6
+mysql:5.7.8
+canal/canal-admin:v1.1.5
+canal/canal-server:v1.1.5
+mysql:5.7.12
+canal/canal-admin:v1.1.7
+canal/canal-server:v1.1.7
