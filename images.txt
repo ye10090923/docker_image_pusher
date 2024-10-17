@@ -1,3 +1,4 @@
---platform=linux/arm64 redis:7.4.1
+--platform=linux/arm64 huasisoft/kkfileview:v4.1.0
+huasisoft/kkfileview:v4.1.0
 
 
