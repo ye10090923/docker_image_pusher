@@ -1,1 +1,3 @@
-yimik/kkfileview:latest
+openjdk:8u332-jdk
+openjdk:8u292-jdk
+openjdk:8u181-jdk
