@@ -1,3 +1,1 @@
-openjdk:8u332-jdk
-openjdk:8u292-jdk
-openjdk:8u181-jdk
+gitlab/gitlab-runner:v14.10.5
