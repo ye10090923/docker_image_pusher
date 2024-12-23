@@ -1,1 +1,1 @@
-opensecurity/nodejsscan:latest
+chat2db/chat2db:latest
