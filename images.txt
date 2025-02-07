@@ -1,1 +1,2 @@
-chat2db/chat2db:3.4.1
+lobehub/lobe-chat:latest
+lobehub/lobe-chat:v1.51.15
