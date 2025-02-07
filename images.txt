@@ -1,1 +1,1 @@
-ollama/ollama:latest
+jakobhoeg/nextjs-ollama-ui:latest
