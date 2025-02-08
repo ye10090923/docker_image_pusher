@@ -1,1 +1,3 @@
-jakobhoeg/nextjs-ollama-ui:latest
+bitnami/mariadb:10.6
+bitnami/redis:6.2
+easysoft/zentao:latest
