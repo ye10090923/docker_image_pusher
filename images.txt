@@ -1,3 +1,1 @@
-bitnami/mariadb:10.6
-bitnami/redis:6.2
-easysoft/zentao:latest
+mintplexlabs/anythingllm:1.4.0
