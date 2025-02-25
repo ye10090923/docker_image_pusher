@@ -1,1 +1,1 @@
-mintplexlabs/anythingllm:1.4.0
+tobilg/zookeeper-webui:latest
