@@ -1,2 +1,1 @@
-datagrip/oracle:11.2.0.2-xe
-datagrip/oracle:11.2
+akaiot/oracle_11g:latest
