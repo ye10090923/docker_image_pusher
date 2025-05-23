@@ -1,2 +1,2 @@
-ynraju4/oracle18c:latest
-ynraju4/oracle18c:18.3.0-ee
+datagrip/oracle:11.2.0.2-xe
+datagrip/oracle:11.2
