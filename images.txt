@@ -1,1 +1,2 @@
-akaiot/oracle_11g:latest
+registry.cn-hangzhou.aliyuncs.com/kennylee/oracle-xe-11g:latest
+registry.cn-hangzhou.aliyuncs.com/zhengqing/oracle18c:latest
