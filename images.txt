@@ -1,2 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/kennylee/oracle-xe-11g:latest
-registry.cn-hangzhou.aliyuncs.com/zhengqing/oracle18c:latest
+registry.cn-hangzhou.aliyuncs.com/wangsong/oracle-12c:12.2.0.1-ee
