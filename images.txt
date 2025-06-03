@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/wangsong/oracle-12c:12.2.0.1-ee
+centos:7
