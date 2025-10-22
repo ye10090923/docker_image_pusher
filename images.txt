@@ -1,1 +1,1 @@
-insideo/centos7-java8-build:latest
+mysql:9.5.0
