@@ -1,1 +1,2 @@
-ghcr.io/anduin2017/how-to-cook:latest
+dbeaver/cloudbeaver:25.2.5
+--platform=linux/arm64 dbeaver/cloudbeaver:25.2.5
